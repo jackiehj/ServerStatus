@@ -12,9 +12,9 @@ USER = "s01"
 
 PASSWORD = "USER_DEFAULT_PASSWORD"
 PORT = 35601
-CU = "cu.jackielovetutu.online"
-CT = "ct.jackielovetutu.online"
-CM = "cm.jackielovetutu.online"
+CU = "sh.unicom.883845.xyz"
+CT = "sh.telecom.883845.xyz"
+CM = "sh.mobile.883845.xyz"
 PROBEPORT = 80
 PROBE_PROTOCOL_PREFER = "ipv4"  # ipv4, ipv6
 PING_PACKET_HISTORY_LEN = 100

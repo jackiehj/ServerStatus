@@ -12,9 +12,9 @@ USER = "s01"
 
 PASSWORD = "USER_DEFAULT_PASSWORD"
 PORT = 35601
-CU = "210.22.97.1"
-CT = "202.96.209.133"
-CM = "211.136.112.200"
+CU = "cu.jackielovetutu.online"
+CT = "ct.jackielovetutu.online"
+CM = "cm.jackielovetutu.online"
 PROBEPORT = 80
 PROBE_PROTOCOL_PREFER = "ipv4"  # ipv4, ipv6
 PING_PACKET_HISTORY_LEN = 100
